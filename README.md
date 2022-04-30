@@ -1,1 +1,2 @@
-# HMK-Programming-repo
+# Welcome to Al HMK-Programming-repo
+## الهدف؟
